@@ -1,0 +1,17 @@
+{
+  "name": "exit-confirm",
+  "version": "1.0.0",
+  "description": "exit confirm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exit-confirm"
+  ],
+  "author": "i3web",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  }
+}
